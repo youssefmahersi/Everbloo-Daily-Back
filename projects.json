@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "Metis France",
+      "members": [
+        "Theo",
+        "Lin",
+        "Jeremy",
+        "Youssef",
+        "Matteo",
+        "Steven"
+      ]
+    },
+    {
+      "name": "Metis Tunis",
+      "members": [
+        "Anass",
+        "Louay",
+        "Khalil",
+        "Tebini",
+        "Mohamede"
+      ]
+    },
+    {
+      "name": "TPP",
+      "members": [
+        "Vero",
+        "Youssef",
+        "Steven",
+        "Khalil"
+      ]
+    },
+    {
+      "name": "Tourfinance",
+      "members": [
+        "Vero",
+        "Youssef",
+        "Steven",
+        "Khalil",
+        "Atilla"
+      ]
+    }
+  ]
+}
