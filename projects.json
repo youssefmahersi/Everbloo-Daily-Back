@@ -6,9 +6,9 @@
         "Theo",
         "Lin",
         "Jeremy",
-        "Youssef",
         "Matteo",
-        "Steven"
+        "Steven",
+        "Lorie"
       ]
     },
     {
@@ -18,7 +18,7 @@
         "Louay",
         "Khalil",
         "Tebini",
-        "Mohamede"
+        "Mohamed"
       ]
     },
     {
@@ -33,11 +33,15 @@
     {
       "name": "Tourfinance",
       "members": [
-        "Vero",
-        "Youssef",
-        "Steven",
-        "Khalil",
         "Atilla"
+      ]
+    },
+    {
+      "name": "ExtraNet",
+      "members": [
+        "Vero",
+        "Laurent",
+        "Manu"
       ]
     }
   ]
